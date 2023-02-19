@@ -30,6 +30,23 @@
 
 ## Ссылки
 
+Фраза для ссылки должна быть понятной. Иными словами, это должен быть полноценный текст или название страницы, на которую указывает ссылка.
+
+ Важно!
+
+Не используйте "щелкните здесь" в качестве текста ссылки. Она плохо сказывается на оптимизации для поисковых систем и не дает адекватного представления о целевой странице.
+
+Правильно:
+
+For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+
+For more details, see the [SET TRANSACTION ISOLATION LEVEL](/sql/t-sql/statements/set-transaction-isolation-level-transact-sql) reference.
+
+Неправильно:
+
+For more details, see [https://msdn.microsoft.com/library/ms173763.aspx](https://msdn.microsoft.com/library/ms173763.aspx).
+
+For more information, click [here](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 
 
 ## Заключение
