@@ -49,4 +49,4 @@ For more details, see [https://msdn.microsoft.com/library/ms173763.aspx](https:/
 For more information, click [here](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 
 
-## Заключение
+## The end
