@@ -71,5 +71,10 @@ For more details, see [https://msdn.microsoft.com/library/ms173763.aspx](https:/
 
 For more information, click [here](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 
+## Кодовые фрагменты строк
+
+Чтобы отметить фрагмент строки, содержащий код, необходимо окружить его обратными апострофами «`». При использовании кодовых фрагментов строк текст будет отображаться в виде моноширинного шрифта. В отличие от блоков кода, кодовый фрагмент позволяет поместить код внутрь обычного абзаца текста. Кодовый фрагмент строки в языке Markdown выглядит следующим образом:
+
+Используйте оператор `if`
 
 ## The end
